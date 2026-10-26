@@ -11,5 +11,9 @@ namespace Shop_Kokorin.Classes
         public string Name { get; set; }
         public int Price { get; set; }
         public Shop(string Name, int Price)
+        {
+
+        }
+
     }
 }
